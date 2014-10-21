@@ -4,7 +4,7 @@ title: "I am Up and Running, as always!"
 modified:
 categories: blog
 excerpt:
-tags: [first, jekyll, hello-world]
+tags: [first, jekyll, hello-world, markdown]
 image:
   feature:
 date: 2014-10-21T13:20:00+05:30
