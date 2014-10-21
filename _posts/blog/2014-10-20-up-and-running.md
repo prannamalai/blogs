@@ -1,21 +1,22 @@
 ---
 layout: post
-title: "Hello World"
+title: "I am up and running, as Always!"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [first, jekyll, hello-world]
 image:
   feature:
-date: 2014-08-08T15:39:55-04:00
+date: 2014-10-21T13:20:00+05:30
+comments: true
+share: true
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+[Jekyll][jekyll]is the easiest way to build your blogs. And you can do free hosting with [GitHub](https://github.com/) pages.
 
-## Sample Heading
+### Hello World!
 
-### Sample Heading 2
+> Jekyll supports markdown.
 
 Jekyll also offers powerful support for code snippets:
 
@@ -29,5 +30,8 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
+I used the awesome [SO Simple theme](http://mmistakes.github.io/so-simple-theme/). Follow the instructions [here](http://mmistakes.github.io/so-simple-theme/theme-setup/)
+
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
+
