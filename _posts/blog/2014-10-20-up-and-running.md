@@ -14,9 +14,11 @@ share: true
 
 [Jekyll][jekyll] is the easiest way to build your blogs. And you can do free hosting with [GitHub](https://github.com/) pages.
 
-### Hello World!
+> Jekyll supports markdown This line is indented
 
-> Jekyll supports markdown.
+Markdown supports simple headers as below.
+
+### Hello World!
 
 Jekyll also offers powerful support for code snippets:
 
@@ -27,6 +29,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+You can do simple but powerful things with [Jekyll][jekyll] and Markdown. **Have Fun!** 
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
