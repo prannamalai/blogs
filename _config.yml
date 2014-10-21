@@ -9,6 +9,7 @@ url: http://prannamalai.github.io/simple
 
 
 # Jekyll configuration
+version: v2.4.0
 
 permalink:   /:categories/:title/
 markdown:    kramdown
@@ -16,7 +17,7 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+  gems:
   - jekyll-sitemap
 
 kramdown:
