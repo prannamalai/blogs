@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I am up and running, as Always!"
+title: "I am Up and Running, as always!"
 modified:
 categories: blog
 excerpt:
@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-[Jekyll][jekyll]is the easiest way to build your blogs. And you can do free hosting with [GitHub](https://github.com/) pages.
+[Jekyll][jekyll] is the easiest way to build your blogs. And you can do free hosting with [GitHub](https://github.com/) pages.
 
 ### Hello World!
 
