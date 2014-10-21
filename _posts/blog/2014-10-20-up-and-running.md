@@ -14,7 +14,7 @@ share: true
 
 [Jekyll][jekyll] is the easiest way to build your blogs. And you can do free hosting with [GitHub](https://github.com/) pages.
 
-> Jekyll supports markdown This line is indented
+> Jekyll supports markdown. This is an indented line.
 
 Markdown supports simple headers as below.
 
