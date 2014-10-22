@@ -28,6 +28,7 @@ Some Examples:
 Quoting from my life:
 
 1. **Improving my scores to 75% in 2 semesters**
+
 > I met with a near fatal accident in 1998 which left me wounded real bad. I had to undergo surgeries in my head and my upper left limb. It’s always Heads First and I was told that I will have to recover from head surgery to undergo the 2nd one.
 > 
 > Few days after 1st surgery, I spoke to my professor. He suggested me to take a break for a year and continue my studies from next year. 
@@ -43,6 +44,7 @@ Quoting from my life:
 > Wait, I didn’t score 75%. I missed it by 1 mark.
 
 2. **100 Kgs to 64 Kgs in 18 months**
+
 > After my accident in 1998, I started gaining weight. I was weighing 73 Kgs in 1998 and by mid 2005 I was closer to 110 Kgs. I started crumbling on my own weight. I used to get frequent back-aches and unable to sit for longer stretches of time. In a fit of events one of my colleagues asked me if I have ever seen myself in mirror. That’s It!
 >
 >> **Enough is Enough**
