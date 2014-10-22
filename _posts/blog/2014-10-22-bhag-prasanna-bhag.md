@@ -55,7 +55,7 @@ Quoting from my life:
 >>
 > I finally ended at 64.5 Kgs.
 
-_You are your best motivation!_ Period.
+**_You are your best motivation! Period._**
 
 I am sharing my experience to highlight the importance of setting a big goal and tying an emotional angle to tie it and to achieve it. It may sound scary but you will achieve it. It worked for me and it will work for you.
 
