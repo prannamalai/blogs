@@ -29,18 +29,18 @@ Quoting from my life:
 
 - **Improving my scores to 75% in 2 semesters**
 
-> I met with a near fatal accident in 1998 which left me wounded real bad. I had to undergo surgeries in my head and my upper left arm. It's always Heads First and I was told that I will have to recover from head surgery to undergo the 2nd one in my arm.
+> I met with a near fatal accident in 1998 that left me wounded real bad. I had to undergo surgeries in my head and my upper left arm. It's always heads first and I was told that I will have to recover from head surgery to undergo my 2nd one in my arm.
 > 
-> Few days after 1st surgery, I spoke to my professor. He suggested me to take a break for a year and continue my studies from next year. 
+> Few days after my 1st surgery, I spoke to my professor. He suggested me to take a break for a year and continue my studies from the following year. 
 > 
-> I was shattered. I was lying in bed mostly and I didn't have much to do. I requested him to let me continue my semesters. He said it will not make any difference considering my history with academics.
+> I was shattered. I was lying in bed mostly and I didn't have much to do. I requested him to let me continue my semesters. He said it will not make any difference considering my academics history.
 >
 >> **Nothing is Impossible**
 >>
 >>> I made a pact with my professor. If he will allow me to write my exams, I will improve my scores and pass out with distinction (75% and above). He laughed as I had barely 70% marks, but nevertheless accepted due to my repeated persuasion. 
 >>>
 >>> It was an emotional moment and I wanted to prove myself. I underwent my 2nd surgery in between my semester break and my arm wasn't ready. I worked hard and enjoyed the moment. It was tough proving myself to me. I completed both my semesters without any break and cleared it. In the journey I improved my overall score too.
->
+>>
 > Wait, I didn't score 75%. I missed it by 1 mark.
 
 - **100 Kgs to 64 Kgs in 18 months**
@@ -52,10 +52,10 @@ Quoting from my life:
 >>> I decided that I will lose 2 Kgs a month and hence the magical number of 100 to 64 Kgs. I did everything that's possible. Working out / Playing Tennis for closer to 2 hours coupled with strict diet. 
 >>>
 >>> Sometimes, I have hit Gym all 7 days. I don't play tennis, but I will cover every inch of the court to take the ball. I tried hard and I tried everyday. It was difficult but I wanted to see it through. 
->
+>>
 > I finally ended at 64.5 Kgs.
 
-You are your best motivation! Period.
+_You are your best motivation!_ Period.
 
 I am sharing my experience to highlight the importance of setting a big goal and tying an emotional angle to tie it and to achieve it. It may sound scary but you will achieve it. It worked for me and it will work for you.
 
