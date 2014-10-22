@@ -26,8 +26,8 @@ Jekyll also offers powerful support for code snippets:
 def print_hi(name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_hi('Prasanna')
+#=> prints 'Hi, Prasanna' to STDOUT.
 {% endhighlight %}
 
 You can do simple but powerful things with [Jekyll][jekyll] and Markdown. **Have Fun!** 
