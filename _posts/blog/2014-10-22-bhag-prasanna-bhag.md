@@ -15,19 +15,19 @@ Came across this title from a recent movie and wanted to use this as title for m
 
 Wondering why I am writing this? Wanted to share some experiences from my own life on how setting an audacious goal can be a fulfilling experience.
 
-BHAG stands for _Big Hairy Audacious Goal_ - A single medium-term goal which binds you emotionally. 
+**BHAG** stands for ***Big Hairy Audacious Goal*** - A single medium-term goal which binds you emotionally. 
 
-“A BHAG is clear and compelling, serves as unifying focal point of effort, and acts as a clear catalyst for team spirit. It has a clear finish line, so the organization can know when it has achieved the goal; people like to shoot for finish lines." - Collins and Porras from _**Built To Last**_
+“A BHAG is clear and compelling, serves as unifying focal point of effort, and acts as a clear catalyst for team spirit. It has a clear finish line, so the organization can know when it has achieved the goal; people like to shoot for finish lines." - **Collins and Porras from _Built To Last_**
 
-Some of the examples are:
+Some Examples:
 
-***JFK's Moon Challenge***: This nation should commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to the earth.
-***Google***: Organize the world's information and make it universally accessible and useful.
-***Microsoft***: A computer on every desk and in every home.
+- ***JFK's Moon Challenge***: This nation should commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to the earth.
+- ***Google***: Organize the world's information and make it universally accessible and useful.
+- ***Microsoft***: A computer on every desk and in every home.
 
 Quoting from my life:
 
-1. **Improving my scores to Distinction in 2 semesters**
+1. **Improving my scores to 75% in 2 semesters**
 > I met with a near fatal accident in 1998 which left me wounded real bad. I had to undergo surgeries in my head and my upper left limb. It’s always Heads First and I was told that I will have to recover from head surgery to undergo the 2nd one.
 > 
 > Few days after 1st surgery, I spoke to my professor. He suggested me to take a break for a year and continue my studies from next year. 
