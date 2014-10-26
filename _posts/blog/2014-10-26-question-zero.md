@@ -11,7 +11,7 @@ date: 2014-10-26T12:50:00+05:30
 comments: true
 share: true
 ---
-The book [“Creative Confidence”](http://www.amazon.in/gp/product/0007592515/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=0007592515&linkCode=as2&tag=prasrock-21&linkId=H2UC7FPYTQPRH3AS) from founders of IDEO (Tom and David Kelley) is an interesting read.
+The book <a href="http://www.amazon.in/gp/product/0007592515/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=0007592515&linkCode=as2&tag=prasrock-21&linkId=PBQVG7JZSCD7LIVG" target="_blank">Creative Confidence: Unleashing the Creative Potential</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=prasrock-21&l=as2&o=31&a=0007592515" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> from founders of IDEO (Tom and David Kelley) is an interesting read.
 
 It’s a gem and full of easy-to-use suggestions on enabling creative potential within us.
 
