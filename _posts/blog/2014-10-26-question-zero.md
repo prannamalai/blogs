@@ -38,3 +38,5 @@ Here are some tips from the book:
 5. Think about the Opposite:
 >
 >> A community action program in Oklahoma faced with low parent participation rates (less than 20 percent) even though the program would help the kid’s futures. After analysis, instead of promoting the program as a free ones, the organizers started focussing on the value of the program to the parents.
+
+I would like to hear your suggestions on asking a right question. Please use the comments section below to let me know!
