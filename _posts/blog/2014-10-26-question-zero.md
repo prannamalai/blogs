@@ -15,7 +15,7 @@ The book <a href="http://www.amazon.in/gp/product/0007592515/ref=as_li_tl?ie=UTF
 
 It’s a gem and full of easy-to-use suggestions on enabling creative potential within us.
 
-One of the facets to innovation is asking the right question to get the spur the _“Aha moment!”_.
+One of the facets to innovation is asking the right question and to spur the _“Aha moment!”_.
 
 Here are some tips from the book:
 
