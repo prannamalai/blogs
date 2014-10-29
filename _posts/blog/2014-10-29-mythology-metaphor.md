@@ -34,5 +34,7 @@ Technically a Vel(spear) contours with a _Sharp_ Edge, an Upper Part which is _W
 
 With a broadened ***Mind and Knowledge*** (Wisdom),  an Individual conquers or vanishes the Emotions (Elephant), Pride (Lion) and Ego (Tree).
 
+Would you have a mythological metaphor to share? I will love to hear them! Please comment below.
+
 [sashti]: http://tiruchendur.org/sashti.raghavan.htm
 [muruga]: http://en.wikipedia.org/wiki/Kartikeya
