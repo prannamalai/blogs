@@ -37,7 +37,7 @@ I did make resolutions in 2014 and I will update them below, but before that why
 
 * Read 12 books in 2014, Read 10 pages everyday - 50% success - Continue in 2015
 
-> This resolution was made midway in January and was made with my friend Saju. We did buy 12 books and I completed 6 of them. **Best resolution I made - reading everyday has become an everyday habit**. My reading speed has improved and my focus on reading books for a longer time has improved from where I started last year. This resolution will be carried into the next year.
+> This resolution was made midway in January and was made with my friend Saju. We did buy 12 books and I completed 6 of them. **One of the best resolutions I made - reading everyday has become a habit**. My reading speed has improved and my focus on reading books for a longer time has improved (from where I started last year, but there is huge scope for improvement here). 
 
 * Learn to write with Left Hand, Right a page every day - Deferred to 2015
 
