@@ -43,4 +43,8 @@ I did make resolutions in 2014 and I will update them below, but before that why
 
 You may notice that some resolutions are written as outcomes, _some are written with outcomes and what I need to do for that resolution_. This was something that I learnt last year and planning to implement in next year too.
 
+I consider the above resolutions as a habit now as I move to 2015.
+
+**Have a Wonderful 2015**
+
 Want to know what my Resolutions for 2015 are? Read the next post.
