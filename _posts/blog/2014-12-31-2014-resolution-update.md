@@ -25,17 +25,19 @@ I did make resolutions in 2014 and I will update them below, but before that why
 
 **_2014 Resolutions - Why & What, and how did I fare?_**
 
-* Stop at the Salad Bar everyday and eat Salads. - 50% Success.
+* Stop at the Salad Bar for lunch everyday and eat Salads. - 50% Success.
 
-> Eat more vegetables and fruits, if possible raw and that was the resolution. I don’t carry my lunch and was eating at office. The side effect of this was an  alarming cholesterol levels when I went for a full body checkup. My family and myself were shocked. Idid start eating at Salad Bar as much as possible but not always. My cholesterol rates had come down drastically. Will rate achievement at 50% as I did skip this when Saravana Bhavan was introduced at office.
+> Eat more vegetables and fruits, if possible raw and that was the resolution. I don’t carry my lunch and was eating at office. The side effect of this was an  alarming cholesterol levels when I went for a full body checkup. My family and myself were shocked. I ate Salads  as much as possible but not always. My cholesterol levels had come down drastically. Will rate achievement at 50% as I did skip this when Saravana Bhavan was newly introduced at office. Will continue this in 2015.
 
 * Stop Reading Newspapers and watching News Channels - 90% Success
 
 > As per several people, if a news is worthwhile it will reach you through your family or friends and it made sense. When I told people about this resolution, people told me that I will get the views of other people and not necessarily the news. Considering the negativity that’s projected as news everyday I felt it’s OK. I made Saturday, Sunday and Monday morning Economic Times as the cheat days and I have newspapers only on those days and that too mostly news related to Sports and Business. _I did watch news when Election Results were announced and when Jayalalitha got convicted_.
 
+>> I channeled the time saved to other things notably improving my tech skills. Will continue this in 2015. 
+
 * Read 12 books in 2014, Read 10 pages everyday - 50% success
 
-> This resolution was made midway in January and was made with my friend Saju. We did buy 12 books and I completed 6 of them. **Best resolution I made - reading everyday has become an everyday habit**. My reading speed has improved and my focus on reading books for a longer time has improved from where I started last year. This resolution will be carried into the next year.
+> This resolution was made midway in January and was made with my friend Saju. We did buy 12 books and I completed 6 of them. **Best resolution I made - reading everyday has become an everyday habit**. My reading speed has improved and my focus on reading books for a longer time has improved from where I started last year. This resolution will be carried into the next year. Will improve this in 2015.
 
 * Learn to write in Left Hand, Right a page every day - Deferred to 2015
 
