@@ -19,10 +19,9 @@ I view resolutions as something not particular to that year rather forming a lif
 
 I did make resolutions in 2014 and I will update them below, but before that why?
 
-1. I needed a motivation to challenge myself to try something.
+1. I needed a motivation to challenge myself to try something new.
 2. I wanted to create more time for myself and remove myself from distractions.
-3. I felt I needed to focus and work on things that are important.
-4. Am aging fast physically and I needed to support my body.
+3. Am aging fast physically and I needed to support my body by taking good care of it.
 
 **_2014 Resolutions - Why & What, and how did I fare?_**
 
